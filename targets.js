@@ -296,6 +296,45 @@ data = {
         name: "Singapore",
         url: "http://sgp-lg.hostus.us/",
         download: "http://speedtest.sng01.softlayer.com/downloads/test100.zip"
+    }],
+    //
+    // Source: https://www.starrydns.com/tc/speedtest
+    StarryDNS: [{
+        name: "Los Angeles 1, USA",
+        url: "http://la-usa.lg.starrydns.com/",
+        download: "http://la-usa.lg.starrydns.com/100MB.test"
+    }, {
+        name: "Los Angeles 2, USA",
+        url: "http://la2-usa.lg.starrydns.com/",
+        download: "http://la2-usa.lg.starrydns.com/100MB.test"
+    }, {
+        name: "Los Angeles 3, USA",
+        url: "http://la3-usa.lg.starrydns.com/",
+        download: "http://la3-usa.lg.starrydns.com/100MB.test"
+    }, {
+        name: "Beauharnois, Canada",
+        url: "http://ca.lg.starrydns.com/",
+        download: "http://ca.lg.starrydns.com/100MB.test"
+    }, {
+        name: "Kwai Chung 4, Hong Kong",
+        url: "http://hk4.lg.starrydns.com/",
+        download: "http://hk4.lg.starrydns.com/100MB.test"
+    }, {
+        name: "Osaka 1, Japan",
+        url: "http://jp2.lg.starrydns.com/",
+        download: "http://jp2.lg.starrydns.com/100MB.test"
+    }, {
+        name: "Tokyo 4, Japan",
+        url: "http://jp4.lg.starrydns.com/",
+        download: "http://jp4.lg.starrydns.com/100MB.test"
+    }, {
+        name: "SG1, Singapore",
+        url: "http://sg1.lg.starrydns.com/",
+        download: "http://sg1.lg.starrydns.com/test100.zip"
+    }, {
+        name: "Steenbergen 1, Netherlands",
+        url: "http://nl1.lg.starrydns.com/",
+        download: "http://nl1.lg.starrydns.com/test100.zip"
     }]
 };
 //
