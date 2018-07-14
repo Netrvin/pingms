@@ -159,6 +159,7 @@ data = {
         url: "http://speedtest-blr1.digitalocean.com/",
         download: "http://speedtest-blr1.digitalocean.com/100mb.test"
     }],
+    /*
     VirMach: [{
         name: "Frankfurt",
         url: "http://ffm.lg.virmach.com/",
@@ -212,6 +213,7 @@ data = {
     // Official test URLs of BandwagonHost
     // (BandwagonHost does not publicly provide test URLs)
     // (These are obtained by directly asking BandwagonHost)
+    */
     BandwagonHost: [{
         name: "Los Angeles DC9 CN2 GIA KVM",
         url: "http://65.49.131.102/"
@@ -256,6 +258,7 @@ data = {
     }],
     //
     // Source: https://hostus.us/openvz-vps.html
+    /*
     HostUS: [{
         name: "Charlotte",
         url: "http://clt-lg.hostus.us/",
@@ -297,6 +300,7 @@ data = {
         url: "http://sgp-lg.hostus.us/",
         download: "http://speedtest.sng01.softlayer.com/downloads/test100.zip"
     }],
+    */
     //
     // Source: https://www.starrydns.com/tc/speedtest
     StarryDNS: [{
